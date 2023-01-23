@@ -1,0 +1,4 @@
+idBookingType,BookingTypeName
+1,Walk-in
+2,Reservation
+3,Delivery

@@ -1,0 +1,4 @@
+idDeliveryStatusCodes,StatusCodeName
+1,"Ready For Pickup"
+2,"In Transit"
+3,Delivered

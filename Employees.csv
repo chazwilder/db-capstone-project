@@ -1,0 +1,7 @@
+idEmployee,FirstName,LastName,RoleId,City,State,Country,Street,PostalCode,ContactNumber,EmailAddress,Annual_Salary
+1,Mario,Gollini,1,Chicago,IL,"United States Of America","724 Parsley Lane",62711,351258074,Mario.g@littlelemon.com,70000.00
+2,Adrian,Gollini,2,Chicago,IL,"United States Of America","334 Dill Square",62711,351474048,Adrian.g@littlelemon.com,65000.00
+3,Giorgos,Dioudis,3,Chicago,IL,"United States Of America","879 Sage Street",62711,351970582,Giorgos.d@littlelemon.com,50000.00
+4,Fatma,Kaya,4,Chicago,IL,"United States Of America","132  Bay Lane",62711,351963569,Fatma.k@littlelemon.com,45000.00
+5,Elena,Salvai,5,Chicago,IL,"United States Of America","989 Thyme Square",62711,351074198,Elena.s@littlelemon.com,40000.00
+6,John,Millar,6,Chicago,IL,"United States Of America","245 Dill Square",62711,351584508,John.m@littlelemon.com,35000.00
